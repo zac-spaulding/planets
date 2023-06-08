@@ -1,1 +1,8 @@
 Hello, rabbit. 
+
+1. Change file
+2. Save file
+3. git add .
+4. git status [What's changed?]
+5. git commit -m "I made changes"
+6. git push
